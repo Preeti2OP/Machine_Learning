@@ -13,6 +13,7 @@ This repository contains implementations of various machine learning algorithms.
 - [Support Vector Machines (SVM)](#support-vector-machines-svm)
 - [K-Means Clustering](#k-means-clustering)
 - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
+
   ![image](https://github.com/user-attachments/assets/c623b2e5-6d1c-487d-8d59-e49cb1f9bd78)
 
 ## Introduction
