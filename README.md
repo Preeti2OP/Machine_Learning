@@ -42,10 +42,13 @@ Unsupervised learning algorithms are used to identify patterns and structure in 
 
 - **K-Means Clustering**
   A clustering algorithm that partitions data into k clusters based on feature similarity.
+  
 - **Principal Component Analysis (PCA)**
   A dimensionality-reduction technique that transforms data into a lower-dimensional space while retaining most of the variance.
+  
 - **Hierarchical Clustering**
  A clustering method that builds a hierarchy of clusters using either agglomerative (bottom-up) or divisive (top-down) approaches.
+
 - **t-Distributed Stochastic Neighbor Embedding (t-SNE)**
-] A technique for dimensionality reduction that visualizes high-dimensional data by mapping it to a lower-dimensional space.
+ A technique for dimensionality reduction that visualizes high-dimensional data by mapping it to a lower-dimensional space.
   
