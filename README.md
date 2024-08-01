@@ -14,7 +14,8 @@ This repository contains implementations of various machine learning algorithms.
 - [K-Means Clustering](#k-means-clustering)
 - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
 
-  ![image](https://github.com/user-attachments/assets/c623b2e5-6d1c-487d-8d59-e49cb1f9bd78)
+ ![image](https://github.com/user-attachments/assets/6c9ed38a-8c97-4182-8a4d-9fc53a67f09d)
+
 
 ## Introduction
 Machine learning is a branch of artificial intelligence that focuses on building systems that learn from and make decisions based on data. image
